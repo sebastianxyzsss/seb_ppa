@@ -1,0 +1,15 @@
+Package: tg
+Version: 0.0.2
+Architecture: amd64
+Essential: no
+Maintainer: sebastian lopez
+Installed-Size: 1024
+Filename: ./tg.0.0.2.deb
+Size: 5306708
+MD5sum: 606dba5a96c7479e88861f81e423d50c
+SHA1: 9d5e9a21d8ac2f9c3a9ea80c59757d653bdc7163
+SHA256: e0cf196b8a8f6195f1a369ae707070006c24f6043e0f6b2588e910ecfc1468ac
+Section: custom
+Priority: optional
+Description: Tardigrade. Bookmarks for commands.
+
