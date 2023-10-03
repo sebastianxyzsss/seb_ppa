@@ -13,3 +13,18 @@ Section: custom
 Priority: optional
 Description: Tardigrade. Bookmarks for commands.
 
+Package: tg
+Version: 0.0.3
+Architecture: amd64
+Essential: no
+Maintainer: sebastian lopez
+Installed-Size: 1024
+Filename: ./tg.0.0.3.deb
+Size: 12100768
+MD5sum: 62503a99ae5c2325a290f1164aa9c2fd
+SHA1: 13b44aa8411c64f8b21f10b3d10b3674408a14bc
+SHA256: 775358dbe704f8c2aaee9048e0e9b33627f39b3ac6d582995983148a21d5dd8a
+Section: custom
+Priority: optional
+Description: Tardigrade. Bookmarks for commands.
+
